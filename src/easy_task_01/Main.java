@@ -2,7 +2,7 @@ package easy_task_01;
 
 import java.util.Scanner;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ahoj, jak se jmenuješ?");
