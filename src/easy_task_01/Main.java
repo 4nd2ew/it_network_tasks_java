@@ -1,4 +1,4 @@
-package simple_task_01;
+package easy_task_01;
 
 import java.util.Scanner;
 
